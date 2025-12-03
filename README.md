@@ -1,6 +1,6 @@
 This is the place where I'll upload the process of my final project to the course machine learning taken in 2025 fall, opened by Te-Sheng Lin.
 
-Adaptive Traffic Control with Physics-Informed Reinforcement Learning
+# Adaptive Traffic Control with Physics-Informed Reinforcement Learning
 
 ## Overview
 
