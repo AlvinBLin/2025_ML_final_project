@@ -24,7 +24,7 @@ Our scalability analysis reveals that while fixed-time controllers fail as netwo
 
 ---
 
-# Run the AI Studio app
+# Run the AI Studio app [(Here)](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2217w5nUI_OS6kl0xa8sELmt1o9aGPBIYZe%22%5D,%22action%22:%22open%22,%22userId%22:%22107074295630655770499%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
 <img width="1384" height="511" alt="image" src="https://github.com/user-attachments/assets/8e8d2863-69e3-4dae-bd50-5fa31d3f830e" />
 
