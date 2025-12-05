@@ -24,11 +24,11 @@ Our scalability analysis reveals that while fixed-time controllers fail as netwo
 
 ---
 
-# Run the AI Studio app [(Here)](https://alvinblin.github.io/Final-Visualisation/))
+# Run the AI Studio app [(Here)](https://alvinblin.github.io/Final-Visualisation/)
 
 <img width="1384" height="511" alt="image" src="https://github.com/user-attachments/assets/8e8d2863-69e3-4dae-bd50-5fa31d3f830e" />
 
-View the visualisation of training process on my AI Studio: [Here](https://alvinblin.github.io/Final-Visualisation/))
+View the visualisation of training process on my AI Studio: [Here](https://alvinblin.github.io/Final-Visualisation/)
 ## Run Locally
 
 **Prerequisites:**  Node.js
