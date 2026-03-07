@@ -18,7 +18,7 @@ Physics Engine: Traffic flow is simulated using the Cell Transmission Model (CTM
 
 Control Strategy: A decentralized Max Pressure agent operates at each intersection, making greedy, local decisions to equalize queue lengths without needing computationally expensive global optimization.
 
-## Key Findings
+## Results amd Key Findings
 
 Our scalability analysis reveals that while fixed-time controllers fail as network complexity grows ($N \ge 6$), the Max Pressure agent maintains robust performance. In large-scale grids ($20 \times 20$), the adaptive system consistently reduces average waiting times by over 11%, saving thousands of vehicle-hours and effectively preventing network-wide gridlock. 
 
